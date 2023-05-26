@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BitKoda
 - 👀 I’m interested in continuously learning to write software and build data-centric apps
-- 🌱 I’m currently learning HTML, CSS, JavaScript and React.
-- 💞️ I’m looking to collaborate on projects after graduating from the Northcoders coding bootcamp
+- 🌱 I’m currently building in HTML5, CSS3, Ruby, Rails, JavaScript and React.
 - 📫 Reach me on Twitter @BitKoda
 
 <!---
