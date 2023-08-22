@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BitKoda
 - 👀 I’m interested in continuously learning to write software and build data-centric apps
-- 🌱 I’m currently building in HTML5, CSS3, Ruby, Rails, JavaScript and React.
+- 🌱 I’m currently building in Rails, and maybe some JavaScript and React thrown in occassionally :)
 - 📫 Reach me on Twitter @BitKoda
 
 <!---
