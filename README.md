@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BitKoda
-- 👀 I’m interested in continuously learning to write software and build data-centric apps
+- 👀 I’m interested in continuously learning to write software and build user-centric apps
 - 🌱 I’m currently building in Rails, and maybe some JavaScript and React thrown in occassionally :)
 - 📫 Reach me on Twitter @BitKoda
 
